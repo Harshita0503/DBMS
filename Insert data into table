@@ -1,0 +1,22 @@
+insert into emp values
+    -> (
+    -> 10001,'riya','sector-47',11
+    -> );
+    
+    
+     insert into emp values
+    -> (
+    -> 10006,'Simran','sector-46',25
+    -> );
+    
+    
+     insert into emp values
+    -> (
+    -> 10226,'kashvi','sector-45',31
+    -> );
+    
+    
+    insert into emp values
+    -> (
+    -> 10236,'geet','sector-44',33
+    -> );
