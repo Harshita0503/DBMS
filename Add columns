@@ -1,0 +1,9 @@
+alter table emp add column
+ (
+ D_id int(6)
+ );
+    
+alter table emp add column
+(
+E_age int(2)
+);
