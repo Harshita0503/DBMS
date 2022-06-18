@@ -1,0 +1,17 @@
+#creating table 
+create table emp11
+    -> (
+    -> eid int(6) primary key,
+    -> ename char(15),
+    -> address varchar(15)
+    -> );
+    
+    
+ #Creating table with Date of Birth
+   create table emp12
+    -> (
+    -> E_id int(6) primary key,
+    -> e_name char(15),
+    -> dob date,
+    -> address varchar(20)
+    -> );
