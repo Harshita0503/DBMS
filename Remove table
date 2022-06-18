@@ -1,0 +1,3 @@
+ drop table emp;
+ 
+ drop table emp12;
